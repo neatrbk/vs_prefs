@@ -1,0 +1,20 @@
+{
+    "window.menuBarVisibility": "default",
+    "workbench.colorTheme": "Capo-Light",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vs-rusty-icons",
+    "workbench.startupEditor": "newUntitledFile",
+    "java.home": "C:\\Program Files\\Java\\jdk-10.0.1",
+    "terminal.integrated.rendererType": "dom",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 17,
+    "terminal.integrated.fontSize": 16,
+
+
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#027F7F",
+        "statusBar.noFolderBackground": "#FD6F1F",
+        "activityBar.background" : "#666"
+    }
+}
